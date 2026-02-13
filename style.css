@@ -20,6 +20,7 @@ a {
     font-size: 7vh;
 }
 
+
 .boton-final {
     color: white;
     width: 100%;
@@ -65,7 +66,7 @@ section {
 
 .image-box {
     width: 100%;
-    height: 70%;
+    /* height: 70%; */
 }
 
 .actual-image, 
@@ -78,7 +79,7 @@ section {
 }
 
 .actual-image {
-    height: 80%;
+    /* height: 80%; */
 }
 
 .gif {
@@ -87,7 +88,7 @@ section {
 }
 
 .text-one {
-    height: 20%;
+    /* height: 20%; */
     border: 0.5px solid rgba(0, 0, 0, 0.164);
 }
 
